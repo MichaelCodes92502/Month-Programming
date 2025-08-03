@@ -13,7 +13,7 @@ int main() {
             cout << "Invalid month. Try again and enter month 1-12." << endl;
     } while (month < 1 || month > 12);
 
-    //year verification
+    //year verification.
     cout << "Enter the year: ";
     cin >> year;
 
